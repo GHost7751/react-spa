@@ -1,0 +1,1 @@
+Create react app project spa by Ghost
